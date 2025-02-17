@@ -1,4 +1,4 @@
-#Wordpress-Plugin
+#Wordpress Plugin
 
 Language: JavaScript, PHP, CSS 
 

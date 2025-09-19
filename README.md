@@ -1,10 +1,10 @@
 **#Wordpress Plugin**
 
-Language: PHP, CSS, JavaScript 
+**Language:** PHP, CSS, JavaScript 
 
 ![Wordpress-Plugin](Wordpress-Plugin.jpg)
 
-Description: This plugin is a fun active game to help develop short term memory. First the user logs in giving their name and age. 
+**Description:** This plugin is a fun active game to help develop short term memory. First the user logs in giving their name and age. 
 They start the game by pressing game 1, where they are give a question such as "Find the following: A" and showed a set
 of five random characters between A and E in five different boxes, this is displayed for only a second and then are 
 hidden from the user by coloured boxes. The user clicks a radio button under the box they think the character is hidden.
